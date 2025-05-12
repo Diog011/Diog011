@@ -1,5 +1,5 @@
 # Olá! 👋
-Me chamo Diogo, sou estudante do primeiro ano de Data Science. :)
+Me chamo Diogo, sou estudante do primeiro ano de Data Science
 
 Bem-vindos ao meu portfólio!
 
